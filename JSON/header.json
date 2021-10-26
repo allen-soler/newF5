@@ -1,0 +1,15 @@
+{
+	"nav":[
+		"Acceuil",
+		"Cours & Location",
+		"Liste de prix buvette"
+	],
+	"img":[
+		"img/header/logo.png",
+		"img/header/sup.png"
+	],
+	"text":{
+		"h1":"A PROPOS DE NOUS",
+		"p":"Force 5 le vengeron ouvert depuis 40 ans. Après différent travaux et restructuration. Le vengeron 2021 est enfin près! Nouvelles activités à découvrir sur notre site."
+	}
+}
